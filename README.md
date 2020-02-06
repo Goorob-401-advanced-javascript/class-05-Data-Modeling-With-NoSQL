@@ -1,10 +1,10 @@
 # class-05-Data-Modeling-With-NoSQL
 ## Author: Goorob Ahmad 
 ## Links and Resources
-(submission PR )[https://github.com/Goorob-401-advanced-javascript/class-05-Data-Modeling-With-NoSQL/pull/1]
+[submission PR](https://github.com/Goorob-401-advanced-javascript/class-05-Data-Modeling-With-NoSQL/pull/1)
 
 
-ci/cd (GitHub Actions)(https://github.com/Goorob-401-advanced-javascript/class-05-Data-Modeling-With-NoSQL/actions)
+ci/cd [GitHub Actions](https://github.com/Goorob-401-advanced-javascript/class-05-Data-Modeling-With-NoSQL/actions)
 
 
 ## Setup
