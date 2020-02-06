@@ -1,0 +1,28 @@
+{
+  "name": "class-05-Data-Modeling-With-NoSQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint" : "eslint **/*.js",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goorob-401-advanced-javascript/class-05-Data-Modeling-With-NoSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goorob-401-advanced-javascript/class-05-Data-Modeling-With-NoSQL/issues"
+  },
+  "homepage": "https://github.com/Goorob-401-advanced-javascript/class-05-Data-Modeling-With-NoSQL#readme",
+  "dependencies": {
+    "@code-fellows/supergoose": "^1.0.1",
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0",
+    "mongoose": "^5.8.11"
+  }
+}
